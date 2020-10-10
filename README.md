@@ -1,6 +1,6 @@
 # Widlácký testovátko
 
-Malý skript na testování progtestových úloh na Widlích. :D
+Malý skript na testování progtestových úloh na Widlích :smile:
 
 ## Použití
 
@@ -9,4 +9,4 @@ Malý skript na testování progtestových úloh na Widlích. :D
 3) Dvakrát klikni na `test.bat`
 
 Poznámka:
-`test.bat` testuje pro program s názvem `uloha`. Takže si tak buď pojmenuj tvůj program, nebo editni `test.bat` ;)
+`test.bat` testuje pro program s názvem `uloha`. Takže si tak buď pojmenuj tvůj program, nebo editni `test.bat` :wink:
