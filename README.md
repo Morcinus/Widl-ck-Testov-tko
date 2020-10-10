@@ -9,4 +9,4 @@ Malý skript na testování progtestových úloh na Widlích :smile:
 3) Dvakrát klikni na `test.bat`
 
 :exclamation:**Pozor**:
-`test.bat` testuje pro program s názvem `uloha`. Takže si tak buď pojmenuj tvůj program, nebo editni `test.bat` :wink:
+`test.bat` testuje pro program s názvem `uloha`. Takže si tak buď pojmenuj svůj program, nebo editni `test.bat` :wink:
